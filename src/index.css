@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body::-webkit-scrollbar,
+body::-webkit-scrollbar-track,
+body::-webkit-scrollbar-thumb {
+  display: none;
+}
